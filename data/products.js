@@ -396,7 +396,7 @@ const products = [
   },
   {
     id: "d2785924-743d-49b3-8f03-ec258e640503",
-    image: "images/products/women-chunky-beanie-gray.webp",
+    image: "images/products/men-navigator-sunglasses-brown.jpg",
     name: "Women's Chunky Cable Beanie - Gray",
     rating: {
       stars: 5,
